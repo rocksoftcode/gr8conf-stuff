@@ -1,4 +1,4 @@
-package com.rocksoft.groovy.xmlslurper
+package com.rocksoft.groovy.xmlandjson
 
 import groovy.json.JsonSlurper
 

@@ -1,4 +1,4 @@
-package com.rocksoft.groovy.xmlslurper
+package com.rocksoft.groovy.xmlandjson
 
 class ReadSomeXml {
   static final String XML = '''
